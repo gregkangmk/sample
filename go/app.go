@@ -16,5 +16,5 @@ func main() {
 }
 
 func hello(w http.ResponseWriter, req *http.Request) {
-	fmt.Fprintln(w, "CloudCredo for all your Cloud Foundry and BOSH consultancy needs!")
+	fmt.Fprintln(w, "go lang 테스트 버전!")
 }

@@ -9,7 +9,7 @@ class CloudCredo < Sinatra::Base
   end
 
   get '/' do
-    'CloudCredo help you deliver value with Cloud Foundry!'
+    'Cloud Foundry 도커 테스트!'
   end
 
   get '/set/:key/to/:value' do

@@ -5,7 +5,7 @@ var app = express();
 app.use(logfmt.requestLogger());
 
 app.get('/', function(req, res) {
-    res.send('CloudCredo for all your Cloud Foundry and BOSH consultancy needs!');
+    res.send('nodejs의 도커 테스트 버전입니다.!');
 });
 
 var port = Number(process.env.PORT || 5000);

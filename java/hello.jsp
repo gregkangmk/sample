@@ -11,7 +11,7 @@
 </td>
 <td>
 <h1>Sample Application JSP Page</h1>
-CloudCredo for all your Cloud Foundry and BOSH consultancy needs!
+Java 도커 테스트 버전!
 </td>
 </tr>
 </table>

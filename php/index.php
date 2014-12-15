@@ -1,5 +1,5 @@
 <?php
 
-echo "CloudCredo for all your Cloud Foundry and BOSH consultancy needs!";
+echo "php 도커 테스트 버전";
 
 ?>

@@ -1,5 +1,5 @@
 class CloudCredo < Sinatra::Base
   get '/' do
-    'CloudCredo help you deliver value with Cloud Foundry!'
+    'Ruby 도커테스트 버전!'
   end
 end
